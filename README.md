@@ -1,6 +1,6 @@
 # Exploit Title: Unauthenticated Remote Code Execution (RCE) - Poultry Farm Management System v1.0
 # Date: 24-06-2024
-# CVE: N/A (Awaiting ID to be assigned) 
+# CVE: CVE-2024-40110 
 # EDB-ID: [52053](https://www.exploit-db.com/exploits/52053)
 # Exploit Author: Jerry Thomas (w3bn00b3r)
 # Vendor Homepage: https://www.sourcecodester.com/php/15230/poultry-farm-management-system-free-download.html
